@@ -1,0 +1,51 @@
+{
+  "starAttack": {
+    "skillText": [
+      "learn starAttack",
+      "starAttack power up"
+    ],
+    "startTime": 0.0,
+    "cd": 5.0,
+    "isLearned": false,
+    "attackPower": 50,
+    "count": 1,
+    "level": 1
+  },
+  "iceAttack": {
+    "skillText": [
+      "learn ice",
+      "ice power Up"
+    ],
+    "startTime": 0.0,
+    "cd": 10.0,
+    "isLearned": false,
+    "attackPower": 50,
+    "count": 1,
+    "level": 1
+  },
+  "swordFire": {
+    "skillText": [
+      "learn swordfire",
+      "swordfire powerup"
+    ],
+    "startTime": 0.0,
+    "cd": 10.0,
+    "isLearned": false,
+    "attackPower": 50,
+    "count": 1,
+    "level": 1
+  },
+  "guardianSword": {
+    "skillText": [
+      "learn guardianSword",
+      "guardianSword attackPower Up",
+	  "increase the number of guardianSword"
+    ],
+    "startTime": 0.0,
+    "cd": 10.0,
+    "isLearned": false,
+    "attackPower": 50,
+    "count": 1,
+    "level": 1
+  }
+}

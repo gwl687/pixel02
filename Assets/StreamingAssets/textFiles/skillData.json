@@ -1,0 +1,166 @@
+{
+  "starAttack": {
+    "skillText": [
+      "LEARN",
+      "UPGRADE"
+    ],
+    "startTime": 0.0,
+    "cd": 15.0,
+	"duration": 8,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 5,
+    "count": 0,
+    "level": 0
+  },
+  "iceAttack": {
+    "skillText": [
+      "LEARN",
+      "UPGRADE"
+    ],
+    "startTime": 0.0,
+    "cd": 25.0,
+	"duration": 3,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 0,
+    "count": 0,
+    "level": 0
+  },
+  "swordFire": {
+    "skillText": [
+      "LEARN",
+      "UPGRADE"
+    ],
+    "startTime": 0.0,
+    "cd": 18,
+	"duration": 0,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 10,
+    "count": 0,
+    "level": 0
+  },
+  "guardianSword": {
+    "skillText": [
+      "LEARN",
+      "UPGRADE",
+    ],
+    "startTime": 0.0,
+    "cd": 0,
+	"duration": 5,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 5,
+    "count": 0,
+    "level": 0
+  },
+  "thunderAttack": {
+    "skillText": [
+      "LEARN",
+      "UPGRADE",
+    ],
+    "startTime": 0.0,
+    "cd": 20,
+	"duration": 5,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 20,
+    "count": 0,
+    "level": 0
+  },
+  "blackhole": {
+    "skillText": [
+      "LEARN",
+      "UPGRADE",
+    ],
+    "startTime": 0.0,
+    "cd": 20,
+	"duration": 1.5,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 1,
+    "count": 0,
+    "level": 0
+  },
+  "repelAttack": {
+    "skillText": [
+      "LEARN",
+      "UPGRADE",
+    ],
+    "startTime": 0.0,
+    "cd": 15,
+	"duration": 0,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 6,
+    "count": 0,
+    "level": 0
+  },
+  "meteoriteAttack": {
+    "skillText": [
+      "LEARN",
+      "UPGRADE",
+    ],
+    "startTime": 0.0,
+    "cd": 25,
+	"duration": 5,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 9,
+    "count": 6,
+    "level": 0
+  },
+  "attackPowerStren": {
+    "skillText": [
+      "UPGRADE",
+    ],
+    "startTime": 0.0,
+    "cd": 25,
+	"duration": 5,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 7,
+    "count": 6,
+    "level": 0
+  },
+  "energyStren": {
+    "skillText": [
+      "UPGRADE",
+    ],
+    "startTime": 0.0,
+    "cd": 25,
+	"duration": 5,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 7,
+    "count": 6,
+    "level": 0
+  },
+  "guardPowerStren": {
+    "skillText": [
+      "UPGRADE",
+    ],
+    "startTime": 0.0,
+    "cd": 25,
+	"duration": 5,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 7,
+    "count": 6,
+    "level": 0
+  },
+  "hpStren": {
+    "skillText": [
+      "UPGRADE",
+    ],
+    "startTime": 0.0,
+    "cd": 25,
+	"duration": 5,
+    "isLearned": false,
+	"isFlashing":false,
+    "attackPower": 7,
+    "count": 6,
+    "level": 0
+  },
+}
