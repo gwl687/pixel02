@@ -1,0 +1,252 @@
+{
+  "1": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 0,
+    "timeEnd": 90,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "2": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 20,
+    "timeEnd": 90,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "3": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 60,
+    "timeEnd": 120,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "4": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 60,
+    "timeEnd": 140,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "5": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 90,
+    "timeEnd": 190,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "6": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 100,
+    "timeEnd": 200,
+    "randomTimeStart": 10,
+    "randomTimeEnd": 25
+  },
+  "7": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 130,
+    "timeEnd": 225,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "8": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 150,
+    "timeEnd": 250,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "9": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 170,
+    "timeEnd": 270,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "10": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 190,
+    "timeEnd": 290,
+    "randomTimeStart": 10,
+    "randomTimeEnd": 25
+  },
+  "11": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 200,
+    "timeEnd": 300,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "12": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 220,
+    "timeEnd": 320,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "13": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 240,
+    "timeEnd": 340,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "14": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 260,
+    "timeEnd": 360,
+    "randomTimeStart": 10,
+    "randomTimeEnd": 25
+  },
+  "15": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 280,
+    "timeEnd": 380,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "16": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 300,
+    "timeEnd": 400,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "17": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 320,
+    "timeEnd": 420,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "18": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 350,
+    "timeEnd": 450,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "19": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 390,
+    "timeEnd": 490,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "20": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 430,
+    "timeEnd": 530,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "21": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 470,
+    "timeEnd": 570,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "22": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 510,
+    "timeEnd": 610,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "23": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 550,
+    "timeEnd": 650,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "24": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 600,
+    "timeEnd": 700,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "25": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 640,
+    "timeEnd": 740,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "26": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 680,
+    "timeEnd": 780,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "27": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 720,
+    "timeEnd": 820,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "28": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 760,
+    "timeEnd": 90,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "29": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 800,
+    "timeEnd": 900,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "30": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 840,
+    "timeEnd": 940,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+  "31": {
+    "posX": 0,
+    "inter": 0,
+    "timeStart": 880,
+    "timeEnd": 980,
+    "randomTimeStart": 4,
+    "randomTimeEnd": 10
+  },
+}
+
+
